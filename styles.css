@@ -2,11 +2,30 @@
   clear: both;
 }
 
-div {
+.box {
   width: 50px;
   height: 50px;
   float: left;
   margin-right: 10px;
   margin-top: 10px;
+}
+
+.hotpink {
+  background-color: hotpink;
+}
+
+.teal {
   background-color: teal;
 }
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+
+
+/*predefined styles for my JS code*/
